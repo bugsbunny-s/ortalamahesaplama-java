@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class hello {
+public class notortalama {
      public static void main(String[] args) {
         int fizik, kimya, mat, turkce, tarih, muzik;
         Scanner input = new Scanner(System.in);
